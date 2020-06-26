@@ -20,6 +20,7 @@ public class Customer {
     * @date: 2020/6/26 18:42
     */
     public void test(int a, String c){
+        System.out.println("hello");
     }
 
 
